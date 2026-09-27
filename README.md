@@ -3,5 +3,5 @@
 </div>
 
 <div algn="center">
-    <p>- 🎓 Graduanda em Sistemas de Informação pela Universidade Federal de Sergipe (UFS)</p>
+    <p style="font-size: 20px">🎓 Graduanda em Sistemas de Informação pela Universidade Federal de Sergipe (UFS)</p>
 </div>

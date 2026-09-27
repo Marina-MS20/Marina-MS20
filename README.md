@@ -7,4 +7,4 @@
 </div>
 
 ## Sobre mim
-<p align="center" style="font-size: 20px">🎓 Graduanda em Sistemas de Informação pela Universidade Federal de Sergipe (UFS)</p>
+- 🎓 Graduanda em Sistemas de Informação pela Universidade Federal de Sergipe (UFS)
